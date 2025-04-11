@@ -1,0 +1,1 @@
+/* JavaScript代码将从ui.html中提取 */
